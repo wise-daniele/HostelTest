@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_f7208b21b0f1d6873612b54dbd88e5c236d97733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_2f2db7ab0007214f915ccbb0c54b590c55a8734c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_a07f972c23cb75db5da76e008d131deec2101d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_1e2eb8daa830758c57f2a4f947ed6145546d1eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_499c5cbd7533bb36b191e4f47a62bc08bfdc685b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/gson-2.7_d2f85c6e8dc72f6726c4f14e28a00e62dcc83b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_3403d1842d584d123b7e742225807d349fc37a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_a25cca4af897df66b5fe0de3725a11d83c63c565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_0eee926b0f8a3c7912f344b1fe088ecfd159d386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_c548c308a3c687dc6db7b73d447aa4b2edf3348c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_165fe1e6a886709ded84c0d4a32ba6b013f50295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_2742a48739253a6d041e9c7083eae5c90cb0e1a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/okio-1.8.0_0d1c83b635bd34759a4f7846b2bf4c98c49aab2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_6c2df720469a03ca99daf7fa18974811f2751c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_cb0e919f26a30cf4c5b589e01deffa3fae3a233f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_d8067b60fc8bfe9acd296b57ceecc28a142a3f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_2abc11e751a5e4fee1d46127fa6947b57d783f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_0a7795a02f75e47189c7c2323223daad0a320f60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_62418b12ecd1d67e57eef3857b9e26989a93cf17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/daniele/freelanceRepos/HostelTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_323731bd5d932a6c65778709fcb916007c9e1f34.jar" />
+    </item>
+
+</items>

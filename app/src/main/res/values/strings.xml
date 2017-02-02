@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hostel Test</string>
+
+    <!-- PropertyDetailFragment -->
+    <string name="text_address">Address:</string>
+    <string name="text_description">Description:</string>
+    <string name="text_directions">Directions:</string>
+
+    <!-- MainFragment -->
+    <string name="text_no_connection">No Internet Connection. Please try again later</string>
+    <string name="text_lowest_price">Lowest Price:</string>
+    <string name="text_property_rating">Property Rating:</string>
+
+
+
+</resources>
