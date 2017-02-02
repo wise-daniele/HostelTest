@@ -72,7 +72,7 @@ public class PropertyAdapter extends RecyclerView.Adapter<PropertyAdapter.Proper
         }
         holder.propertyType.setText(property.getType());
         holder.propertyName.setText(property.getName());
-        holder.lowestPrice.setText("N/A");
+        holder.lowestPrice.setText(mContext.getResources().getString(R.string.text_no_value));
         holder.rating.setText(Integer.toString(property.getOverallRating().getOverall()));
 
         holder.mView.setOnClickListener(new View.OnClickListener() {

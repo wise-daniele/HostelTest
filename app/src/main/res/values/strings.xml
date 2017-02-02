@@ -10,7 +10,6 @@
     <string name="text_no_connection">No Internet Connection. Please try again later</string>
     <string name="text_lowest_price">Lowest Price:</string>
     <string name="text_property_rating">Property Rating:</string>
-
-
+    <string name="text_no_value">N/A</string>
 
 </resources>
